@@ -237,7 +237,7 @@ header .burger_btn {
           align-items: center;
   text-align: center;
   height: 767px;
-  background-image: url("E:/training.1/imgs/hero@2x.png");
+  background-image: url("/training.1/imgs/hero@2x.png");
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
@@ -394,7 +394,12 @@ header .burger_btn {
   margin: 60px auto 65px;
   text-align: center;
   background-image: radial-gradient(290px 300px, rgba(244, 242, 251, 0.5) 20%, transparent 20%), radial-gradient(800px 780px, rgba(249, 253, 200, 0.5) 20%, transparent 20%), radial-gradient(1000px 990px, rgba(123, 222, 217, 0.5) 20%, transparent 20%), radial-gradient(400px 380px, rgba(123, 222, 217, 0.5) 20%, transparent 20%), radial-gradient(100px 100px, rgba(249, 253, 200, 0.5) 20%, transparent 20%);
-  background-size: 1230px 1280px, 810px 910px, 1470px 990px, 1470px 990px, 1200px 1700px, 1520px 1200px, 1100px 1300px;
+  background-size: 1230px 1280px,
+ 810px 910px, 1470px 990px,
+ 1470px 990px,
+ 1200px 1700px,
+ 1520px 1200px,
+ 1100px 1300px;
   background-position: -300px -550px, -200px 100px, 250px 650px, -250px -450px;
 }
 
